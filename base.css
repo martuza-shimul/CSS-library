@@ -731,3 +731,21 @@ html {
 .shrink-0 {
     flex-shrink: 0;
 }
+
+
+/* FLEX DIRECTION */
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-row-reverse {
+    flex-direction: row-reverse;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-col-reverse {
+    flex-direction: column-reverse;
+}
