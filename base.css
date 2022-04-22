@@ -668,3 +668,29 @@ html {
 .pl-20 {
     padding-left: 2rem;
 }
+
+
+/* DISPLAY */
+.block {
+    display: block;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.inline {
+    display: inline;
+}
+
+.flex {
+    display: flex;
+}
+
+.grid {
+    display: grid;
+}
+
+.hidden {
+    display: none;
+}
