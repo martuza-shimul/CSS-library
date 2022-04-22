@@ -749,3 +749,17 @@ html {
 .flex-col-reverse {
     flex-direction: column-reverse;
 }
+
+
+/* FLEX WRAP */
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-wrap-reverse {
+    flex-wrap: wrap-reverse;
+}
+
+.flex-nowrap {
+    flex-wrap: nowrap;
+}
