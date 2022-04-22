@@ -515,3 +515,156 @@ html {
 .ml-auto {
     margin-left: auto;
 }
+
+
+/* PADDING */
+.p-0 {
+    padding: 0;
+}
+
+.p-5 {
+    padding: .5rem;
+}
+
+.p-10 {
+    padding: 1rem;
+}
+
+.p-15 {
+    padding: 1.5rem;
+}
+
+.p-20 {
+    padding: 2rem;
+}
+
+
+.px-0 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.px-5 {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.px-10 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.px-15 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.px-20 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.py-0 {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.py-5 {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+.py-10 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.py-15 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.py-20 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.pt-0 {
+    padding-top: 0;
+}
+
+.pt-5 {
+    padding-top: .5rem;
+}
+
+.pt-10 {
+    padding-top: 1rem;
+}
+
+.pt-15 {
+    padding-top: 1.5rem;
+}
+
+.pt-20 {
+    padding-top: 2rem;
+}
+
+.pr-0 {
+    padding-right: 0;
+}
+
+.pr-5 {
+    padding-right: .5rem;
+}
+
+.pr-10 {
+    padding-right: 1rem;
+}
+
+.pr-15 {
+    padding-right: 1.5rem;
+}
+
+.pr-20 {
+    padding-right: 2rem;
+}
+
+.pb-0 {
+    padding-bottom: 0;
+}
+
+.pb-5 {
+    padding-bottom: .5rem;
+}
+
+.pb-10 {
+    padding-bottom: 1rem;
+}
+
+.pb-15 {
+    padding-bottom: 1.5rem;
+}
+
+.pb-20 {
+    padding-bottom: 2rem;
+}
+
+.pl-0 {
+    padding-left: 0;
+}
+
+.pl-5 {
+    padding-left: .5rem;
+}
+
+.pl-10 {
+    padding-left: 1rem;
+}
+
+.pl-15 {
+    padding-left: 1.5rem;
+}
+
+.pl-20 {
+    padding-left: 2rem;
+}
