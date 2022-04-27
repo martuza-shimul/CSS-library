@@ -899,3 +899,38 @@ html {
 .self-baseline {
     align-self: baseline;
 }
+
+
+ /* TEXT ALIGNMENT */
+ .text-left {
+     text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+/* TEXT TRANSFORM */
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.normal-case {
+    text-transform: none;
+}
