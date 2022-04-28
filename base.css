@@ -1009,3 +1009,56 @@ html {
 .z-50 {
     z-index: 50;
 }
+
+
+/* BORDER RADIUS */
+.rounded-none {
+    border-radius: 0;
+}
+
+.rounded-sm {
+    border-radius: .2rem;
+}
+
+.rounded-md {
+    border-radius: .4rem;
+}
+
+.rounded-lg {
+    border-radius: .8rem;
+}
+
+.rounded-full {
+    border-radius: 999rem;
+}
+
+
+/* BORDER STYLE */
+.border-solid {
+    border-style: solid;
+}
+
+.border-none {
+    border-style: none;
+}
+
+/* BORDER WIDTH */
+.border-0 {
+    border-width: 0;
+}
+
+.border {
+    border-width: .1rem;
+}
+
+.borde-2 {
+    border-width: .2rem;
+}
+
+.borde-3 {
+    border-width: .3rem;
+}
+
+.borde-4 {
+    border-width: .4rem;
+}
