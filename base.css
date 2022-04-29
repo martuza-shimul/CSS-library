@@ -1111,3 +1111,12 @@ html {
     font-size: 4.8rem;
     line-height: 1;
 }
+
+/* FONT STYLE */
+.italic {
+    font-style: italic;
+}
+
+.not-italic {
+    font-style: normal;
+}
