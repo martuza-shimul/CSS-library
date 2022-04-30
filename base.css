@@ -1483,3 +1483,13 @@ html {
 .bg-origin-content {
     background-origin: content-box;
 }
+
+/* --------- TABLES -------- */
+/* BORDER COLLAPSE */
+.border-collapse {
+    border-collapse: collapse;
+}
+
+.border-separate {
+    border-collapse: separate;
+}
