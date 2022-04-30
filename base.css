@@ -1427,3 +1427,16 @@ html {
     background-repeat: space;
 }
 
+
+/* BACKGROUND ATTACHMENT */
+.bg-fixed {
+    background-color: fixed;
+}
+
+.bg-local {
+    background-color: local;
+}
+
+.bg-scroll {
+    background-color: scroll;
+}
