@@ -1262,3 +1262,110 @@ html {
 .text-rose {
     color: rgb(251 113 133);
 }
+
+
+/*--------- BACKGROUNDS ----------*/
+/* BACKGROUND COLOR */
+.bg-inherit {
+    color: inherit;
+}
+
+.bg-current {
+    color: currentColor;
+}
+
+.bg-transparent {
+    color: transparent;
+}
+
+.bg-black {
+    color: rgb(0 0 0);
+}
+
+.bg-white {
+    color: rgb(255 255 255);
+}
+
+.bg-gray {
+    color: rgb(156 163 175);
+}
+
+.bg-zinc {
+    color: rgb(82 82 91);
+}
+
+.bg-neutral {
+    color: rgb(163 163 163);
+}
+
+.bg-stone {
+    color: rgb(168 162 158);
+}
+
+.bg-red {
+    color: rgb(248 113 113);
+}
+
+.bg-orange {
+    color: rgb(251 146 60);
+}
+
+.bg-amber {
+    color: rgb(251 191 36);
+}
+
+.bg-yellow {
+    color: rgb(250 204 21);
+}
+
+.bg-lime {
+    color: rgb(163 230 53);
+}
+
+.bg-green {
+    color: rgb(74 222 128);
+}
+
+.bg-emerald {
+    color: rgb(52 211 153);
+}
+
+.bg-teal {
+    color: rgb(45 212 191);
+}
+
+.bg-cyan {
+    color: rgb(34 211 238);
+}
+
+.bg-sky {
+    color: rgb(56 189 248);
+}
+
+.bg-blue {
+    color: rgb(96 165 250);
+}
+
+.bg-indigo {
+    color: rgb(129 140 248);
+}
+
+.bg-violet {
+    color: rgb(167 139 250);
+}
+
+.bg-purple {
+    color: rgb(192 132 252);
+}
+
+.bg-fuchsia {
+    color: rgb(232 121 249);
+}
+
+.bg-pink {
+    color: rgb(244 114 182);
+}
+
+.bg-rose {
+    color: rgb(251 113 133);
+}
