@@ -1369,3 +1369,35 @@ html {
 .bg-rose {
     color: rgb(251 113 133);
 }
+
+.bg-primary {
+    color: rgb(13 110 253);
+}
+
+.bg-secondary {
+    color: rgb(108 117 125);
+}
+
+.bg-success {
+    color: rgb(25 135 84);
+}
+
+.bg-danger {
+    color: rgb(220 53 69);
+}
+
+.bg-warning {
+    color: rgb(255 193 7);
+}
+
+.bg-info {
+    color: rgb(13 202 240);
+}
+
+.bg-light {
+    color: rgb(248 249 250);
+}
+
+.bg-dark {
+    color: rgb(33 37 41);
+}
