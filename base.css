@@ -1493,3 +1493,13 @@ html {
 .border-separate {
     border-collapse: separate;
 }
+
+
+/* TABLE LAYOUT */
+.table-auto {
+    table-layout: auto;
+}
+
+.table-fixed {
+    table-layout: fixed;
+}
