@@ -1401,3 +1401,85 @@ html {
 .bg-dark {
     color: rgb(33 37 41);
 }
+
+/* BACKGROUND REPEAT */
+.bg-repeat {
+    background-repeat: repeat;
+}
+
+.bg-no-repeat {
+    background-repeat: no-repeat;
+}
+
+.bg-repeat-x {
+    background-repeat: repeat-x;
+}
+
+.bg-repeat-y {
+    background-repeat: repeat-y;
+}
+
+.bg-repeat-round {
+    background-repeat: round;
+}
+
+.bg-repeat-space {
+    background-repeat: space;
+}
+
+
+/* BACKGROUND ATTACHMENT */
+.bg-fixed {
+    background-color: fixed;
+}
+
+.bg-local {
+    background-color: local;
+}
+
+.bg-scroll {
+    background-color: scroll;
+}
+
+/* BACKGROUND SIZE */
+.bg-auto {
+    background-size: auto;
+}
+
+.bg-cover {
+    background-size: cover;
+}
+
+.bg-contain {
+    background-size: contain;
+}
+
+/* BACKGROUND CLIP */
+.bg-clip-border {
+    background-clip: border-box;
+}
+
+.bg-clip-padding {
+    background-clip: padding-box;
+}
+
+.bg-clip-content {
+    background-clip: content-box;
+}
+
+.bg-clip-text {
+    background-clip: text;
+}
+
+/* BACKGROUND ORIGIN */
+.bg-origin-border {
+    background-origin: border-box;
+}
+
+.bg-origin-padding {
+    background-origin: padding-box;
+}
+
+.bg-origin-content {
+    background-origin: content-box;
+}
