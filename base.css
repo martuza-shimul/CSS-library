@@ -1503,3 +1503,35 @@ html {
 .table-fixed {
     table-layout: fixed;
 }
+
+
+/*------------ EFFECTS -----------*/
+/* BOX SHADOW */
+.shadow-sm {
+    box-shadow: 0 .1rem .2rem 0 rgb(0 0 0 /.05);
+}
+
+.shadow {
+    box-shadow: 0.1rem .3rem 0 rgb(0 0 0 / 0.1), 
+    0 .1rem .2rem -.1rem rgb(0 0 0 / 0.1);
+}
+
+.shadow-lg {
+    box-shadow: 0 .4rem .6rem -.1rem rgb(0 0 0 / 0.1), 0 .2rem .4rem -.2rem rgb(0 0 0 / 0.1);
+}
+
+.shadow-xl {
+    box-shadow: 0 1rem 1.5rem -.3rem rgb(0 0 0 / 0.1), 0 .4rem .6rem -.4rem rgb(0 0 0 / 0.1);
+}
+
+.shadow-2xl {
+    box-shadow: 0 2.5rem 5rem -1.2rem rgb(0 0 0 / 0.25);
+}
+
+.shadow-inner {
+    box-shadow: inset 0 .2rem .4rem 0 rgb(0 0 0 / 0.05);
+}
+
+.shadow-inner {
+    box-shadow: 0 0 #0000;
+}
